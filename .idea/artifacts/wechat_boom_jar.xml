@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wechat_boom:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/wechat_boom_jar</output-path>
+    <root id="archive" name="wechat_boom.jar">
+      <element id="module-output" name="wechat_boom" />
+    </root>
+  </artifact>
+</component>
